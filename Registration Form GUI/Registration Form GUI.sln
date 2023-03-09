@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Registration Form GUI", "Registration Form GUI\Registration Form GUI.pyproj", "{5BA6A0A6-2008-43EE-86E1-EF814EA62C08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BA6A0A6-2008-43EE-86E1-EF814EA62C08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA6A0A6-2008-43EE-86E1-EF814EA62C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A0EA26A-9ABF-4146-B4CA-80230BDD4D41}
+	EndGlobalSection
+EndGlobal
